@@ -1,0 +1,1 @@
+Esercizio JS per la creazione dinamica di una table con una CLASS
